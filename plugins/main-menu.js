@@ -313,13 +313,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
                   "rowId": `.owner`
                 },{
-                  "title": "❗ INFO BOT",
-                  "description": "Menampilkan Menu Info",
-                  "rowId": `${_p}? info`
-                }],
-                "title": "INFORMASI BOT"
-              }, {
-                "rows": [{
+                 
                   "title": `│🧾│ SEMUA PERINTAH`,
                   "description": "Menampilkan Menu All",
                   "rowId": '.? all'
@@ -507,36 +501,16 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Website Creator',
+               displayText: 'browsing ilmu',
                url: web
              }
 
            },
              {
-             urlButton: {
-               displayText: 'Group Bot', 
-               url: gc
-             }
-
-           },
-               {
+             
              quickReplyButton: {
-               displayText: 'Owner',
+               displayText: 'owner',
                id: '.owner',
-             }
-
-           },
-               {
-             quickReplyButton: {
-               displayText: 'Donasi',
-               id: '.donasi',
-             }
-
-           },
-           {
-             quickReplyButton: {
-               displayText: 'Credits',
-               id: '.tqto',
              }
            }]
          }
