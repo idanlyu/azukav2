@@ -15,8 +15,8 @@ global.gopay = '6288227606701'
 //=============『 Info Bot 』=================//
 global.namebot = 'Yonzcyy-Md'
 global.gc = 'dah gw bubarin '
-global.web = 'https://yandex.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.web = 'https://wa.me/6288227606701?text=halo+bang+save' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'gaje lu'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
@@ -35,7 +35,7 @@ global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = 'done'
 global.packname = '2022'
 global.author = '© Yonzcyy'
 
