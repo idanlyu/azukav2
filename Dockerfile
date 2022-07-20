@@ -26,4 +26,4 @@ ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils 
 
 EXPOSE 8080
 
-CMD ["node", "."]`
+CMD ["node", ". --db 'mongodb+srv://mongodb-bot:iCQob5VpJ7KAtUU4@cluster0.z7by1.mongodb.net/?retryWrites=true&w=majority'"]`
