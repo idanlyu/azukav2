@@ -66,6 +66,6 @@ function start(file) {
     })
   // console.log(p)
 }
-require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
+
 
 start('main.js')
